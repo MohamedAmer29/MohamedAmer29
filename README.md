@@ -55,7 +55,7 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="[[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohamed-amer-692415327/)](https://www.linkedin.com/in/mohamed-amer-692415327/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohamed-amer-692415327/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:m1o1h1a1a1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="[https://your-portfolio.com](https://cool-cranachan-bcbbb7.netlify.app/)" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=web&logoColor=white" /></a>
+  <a href="https://cool-cranachan-bcbbb7.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=web&logoColor=white" /></a>
 </p>
