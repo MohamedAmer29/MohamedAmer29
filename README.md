@@ -16,8 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-#### 💻 Languages & Frameworks
+### 🚀 My Tech Stack
 
 <p align="center">
   <!-- Frontend -->
