@@ -49,7 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmer29&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmer29&theme=github-dark&hide_border=false" alt="GitHub Streak" />
 </p>
-<img src="https://private-user-images.githubusercontent.com/99695242/411342603-229b5c6c-bdb1-431e-bd24-d85ed26a9f22.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIyNzAwMDksIm5iZiI6MTc1MjI2OTcwOSwicGF0aCI6Ii85OTY5NTI0Mi80MTEzNDI2MDMtMjI5YjVjNmMtYmRiMS00MzFlLWJkMjQtZDg1ZWQyNmE5ZjIyLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzExVDIxMzUwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhOWZiOWNmZDA2NDM1NTJmZjE2MjAxMjcyYjI0YWY2YjA5NzAzM2E1MTkwNjBlODcwZmEyNzc3N2RiM2YyZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xs2CBL_7zcKHH0zaLs46IqbNPtXbdt0lfP0iecGml_c" alt="github-user-contribution" style="max-width: 100%;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedAmer29/MohamedAmer29/main/path-to-your-image.png" alt="GitHub Contribution Graph" />
+</p>
 ---
 
 ### 🔗 Connect with Me
