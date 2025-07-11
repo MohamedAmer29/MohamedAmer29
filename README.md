@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Amer</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=300&size=30&pause=1000&color=F7F662&background=0034FF00&width=435&lines=Software+Developer;Full-Stack+Developer" alt="Typing SVG" /></a>
 <p align="center">
   🚀 Full Stack Developer | 🖥️ JavaScript | ⚙️ TypeScript | ☁️ Firebase Enthusiast
 </p>
