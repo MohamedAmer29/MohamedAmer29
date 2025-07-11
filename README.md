@@ -17,20 +17,25 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<p align="center" dir="auto">
+  
+  <!-- Skill Icons with Titles -->
+  <a href="https://go-skill-icons.vercel.app" target="_blank" rel="noopener noreferrer nofollow">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,vue,react,tailwind,nodejs,express,mongodb,firebase,mysql&titles=true" alt="Skill Icons" title="Skill Icons" />
+  </a>
+
+  <!-- Extra Icons from Icons8 -->
+  <a href="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png" target="_blank" rel="noopener noreferrer nofollow">
+    <img width="70" src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png" alt="Ms SQL Server" />
+  </a>
+  <a href="https://img.icons8.com/?size=50&id=20906&format=png" target="_blank" rel="noopener noreferrer nofollow">
+    <img width="70" src="https://img.icons8.com/?size=50&id=20906&format=png" alt="Git" />
+  </a>
+  <a href="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png" target="_blank" rel="noopener noreferrer nofollow">
+    <img width="70" src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png" alt="GitHub" />
+  </a>
 </p>
+
 
 ---
 
