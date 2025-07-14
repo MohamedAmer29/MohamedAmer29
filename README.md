@@ -75,7 +75,14 @@
   <img src="https://raw.githubusercontent.com/MohamedAmer29/MohamedAmer29/main/github-user-contribution.svg" alt="GitHub Contribution Graph" />
 </p>
 ---
+### ⏱ My Coding Time (via WakaTime)
 
+<p align="center">
+  <a href="https://wakatime.com/@YOUR_USERNAME" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amer_29&layout=compact&theme=github_dark" alt="WakaTime Stats" />
+  </a>
+</p>
+---
 ### 🔗 Connect with Me
 
 <p>
