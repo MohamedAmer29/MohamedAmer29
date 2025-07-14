@@ -82,6 +82,16 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amer_29&layout=compact&theme=github_dark" alt="WakaTime Stats" />
   </a>
 </p>
+<p align="center">
+  <a href="https://wakatime.com/@Amer_29" target="_blank">
+    <img src="https://wakatime.com/badge/user/waka_9cc98617-3f64-4d1c-a8d9-ac62346d8f08D.svg" alt="Total time coded since joining WakaTime" />
+  </a>
+  <br/>
+  <a href="https://wakatime.com/@Amer_29" target="_blank">
+    <img src="![WakaTime Badge](https://wakatime.com/badge/user/waka_9cc98617-3f64-4d1c-a8d9-ac62346d8f08.svg)
+" alt="WakaTime Last Year Stats" />
+  </a>
+</p>
 ---
 ### 🔗 Connect with Me
 
