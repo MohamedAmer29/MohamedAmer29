@@ -18,7 +18,7 @@
 - 🔭 I’m a **Full Stack Web Developer** specialized in building scalable and high-performance web applications.
 - 💡 Passionate about **clean code**, **UI/UX**, and **end-to-end development**.
 - 🧩 I love using **Vue.js** & **React** on the frontend and **Node.js + Express + MongoDB** on the backend.
-- 🌱 Currently learning more about **DevOps**, **Next.js**, and **system design**.
+- 🌱 Currently learning more about **DevOps**, **Nest.js**, and **system design**.
 - ⚡ Fun fact: I write better code with coffee ☕.
 
 ---
