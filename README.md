@@ -19,7 +19,7 @@
 - 💡 Passionate about **clean code**, **UI/UX**, and **end-to-end development**.
 - 🧩 I love using **Vue.js** & **React** on the frontend and **Node.js + Express + MongoDB** on the backend.
 - 🌱 Currently learning more about **DevOps**, **Nest.js**, and **system design**.
-- ⚡ Fun fact: I write better code with coffee ☕.
+
 
 ---
 
