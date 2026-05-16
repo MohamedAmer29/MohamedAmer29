@@ -84,7 +84,7 @@
 
 
 
-<p width="200">
+<p width="300">
   <a href="https://wakatime.com/@YOUR_USERNAME" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amer_29&layout=compact&theme=github_dark" alt="WakaTime Stats" />
   </a>
