@@ -78,10 +78,10 @@
 
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.demolab.com/api?username=MohamedAmer29&show_icons=true&theme=github_dark" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmer29&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAmer29&theme=github-dark&hide_border=false" alt="GitHub Streak" />-->
  <img src="https://streak-stats.demolab.com/?user=MohamedAmer29&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-  <!-- <img src="https://demolab.com" alt="GitHub Streak" /> -->
+
 
 </p>
 <p align="center">
