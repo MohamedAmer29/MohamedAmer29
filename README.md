@@ -72,11 +72,6 @@
 ---
 ### 📈 GitHub Stats
 
-
-
-
-
-
 <p align="center">
  <img src="https://streak-stats.demolab.com/?user=MohamedAmer29&theme=github-dark&hide_border=false" alt="GitHub Streak" />
 </p>
