@@ -24,7 +24,6 @@
 
 ### 🛠️ Tech Stack
 <p align="center" dir="auto">
-  
   <!-- Skill Icons with Titles -->
   <a href="https://go-skill-icons.vercel.app" target="_blank" rel="noopener noreferrer nofollow">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,vue,react,tailwind,nodejs,express,mongodb,firebase,mysql&titles=true" alt="Skill Icons" title="Skill Icons" />
@@ -82,4 +81,5 @@
   <a href="mailto:m1o1h1a1a1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="100" margin="4"/></a>
   <a href="https://cool-cranachan-bcbbb7.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=web&logoColor=white" width="100" /></a>
 </p>
+
 <figure><embed src="https://wakatime.com/share/@Amer_29/85a52944-2528-4898-8d78-40f47ab50940.svg"></embed></figure>
