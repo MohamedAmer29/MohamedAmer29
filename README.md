@@ -76,6 +76,7 @@
 </p>
 
 ### 🔗 Connect with Me
+
 <p>
   <a href="https://www.linkedin.com/in/mohamed-amer-692415327/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"  width="100/></a>
   <a href="mailto:m1o1h1a1a1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="100" margin="4"/></a>
