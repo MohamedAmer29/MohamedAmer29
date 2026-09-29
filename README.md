@@ -25,7 +25,6 @@
 
 ### 🛠️ Tech Stack
 <p align="center" dir="auto">
-  <!-- Skill Icons with Titles -->
   <a href="https://go-skill-icons.vercel.app" target="_blank" rel="noopener noreferrer nofollow">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,vue,react,tailwind,nodejs,express,mongodb,firebase,mysql&titles=true" alt="Skill Icons" title="Skill Icons" />
   </a>
