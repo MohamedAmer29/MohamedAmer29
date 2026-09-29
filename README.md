@@ -30,8 +30,6 @@
   <a href="https://go-skill-icons.vercel.app" target="_blank" rel="noopener noreferrer nofollow">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,vue,react,tailwind,nodejs,express,mongodb,firebase,mysql&titles=true" alt="Skill Icons" title="Skill Icons" />
   </a>
-
-  <!-- Extra Icons from Icons8 -->
   <a href="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png" target="_blank" rel="noopener noreferrer nofollow">
     <img width="70" src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png" alt="Ms SQL Server" />
   </a>
