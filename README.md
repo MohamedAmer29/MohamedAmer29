@@ -65,6 +65,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   
 ---
+
 ### 📈 GitHub Stats
 <p align="center">
  <img src="https://streak-stats.demolab.com/?user=MohamedAmer29&theme=github-dark&hide_border=false" alt="GitHub Streak" />
